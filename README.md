@@ -3,8 +3,10 @@
 ### 使用方法
 
 - 於文章頁面中（display-item.jsp）新增一 id 為 related-article 的 div 區塊
+
 `<div id="related-article"></div>`
 - 載入 related-article.js
+
 `<script src="related-article.js"></script>`
 - 完成！
 
