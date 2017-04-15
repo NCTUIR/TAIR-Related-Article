@@ -31,7 +31,8 @@
         <taglib-uri>http://java.sun.com/jstl/core</taglib-uri>
         <taglib-location>/WEB-INF/c.tld</taglib-location>
     </taglib>
-  ```
+    ```
+    
  3. 修改網頁目錄中之 display-item.jsp 檔案，分別增加以下語法
 
     * 於程式前段適當位置加入以下語法：
